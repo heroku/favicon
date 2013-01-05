@@ -1,5 +1,8 @@
 # Heroku Favicon
 
+![favicon-16x16](https://github.com/heroku/favicon/raw/master/favicon.iconset/icon_16x16.png)
+![favicon-32x32](https://github.com/heroku/favicon/raw/master/favicon.iconset/icon_32x32.png)
+
 The assets for Heroku's favicon live here. To generate updated assets from
 `source` make sure you have Adobe Photoshop and [Icon
 Slate][icon-slate] installed.
